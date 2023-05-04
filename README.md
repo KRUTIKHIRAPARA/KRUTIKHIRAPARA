@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently pursuing **Bachlor Of Computer Application**
 
-- 🌱 I’m currently learning **Angular, C#**
+- 🌱 I’m currently learning **Angular, Typescript, Javascript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KRUTIKHIRAPARA](https://github.com/KRUTIKHIRAPARA)
 
