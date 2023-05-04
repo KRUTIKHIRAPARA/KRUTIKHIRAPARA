@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krutik Hirapara</h1>
-<h3 align="center">A Passionate Software Engineer at Hyderabad</h3>
+<h3 align="center">A Passionate Software Developer at Hyderabad</h3>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/KRUTIKHIRAPARA/KRUTIKHIRAPARA/blob/main/krutik.gif">
 
