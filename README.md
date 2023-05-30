@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krutikhirapara&label=Profile%20views&color=0e75b6&style=flat" alt="krutikhirapara" /> </p>
 
-- 🔭 I’m currently pursuing **Bachlor Of Computer Application**
+- 🔭 I’m graduate of **Bachlor Of Computer Application**
 
-- 🌱 I’m currently learning **Angular, Typescript, Javascript**
+- 🌱 I’m currently working in **Angular, Typescript, Javascript** technology
 
 - 👨‍💻 All of my projects are available at [https://github.com/KRUTIKHIRAPARA](https://github.com/KRUTIKHIRAPARA)
 
-- 💬 Ask me about **Javascript, Typescript**
+- 💬 Ask me about **Angular, Typescript, Javascript**
 
 - 📫 How to reach me **krutik2511@gmail.com**
 
