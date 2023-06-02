@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krutikhirapara&label=Profile%20views&color=0e75b6&style=flat" alt="krutikhirapara" /> </p>
 
-- 🔭 I’m graduate of **Bachelor Of Computer Application**
+- 🔭 I’m graduate in **Bachelor Of Computer Application**
 
 - 🌱 I’m currently working in **Angular, Typescript, Javascript** technology
 
