@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/KRUTIKHIRAPARA/KRUTIKHIRAPARA/blob/main/krutik.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krutikhirapara" alt="krutikhirapara" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krutikhirapara&label=Profile%20views&color=0e75b6&style=flat" alt="krutikhirapara" /> </p>
 
 - 🔭 I’m graduate in **Bachelor Of Computer Application**
 
